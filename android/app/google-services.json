@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118050120058",
+    "project_id": "sayi-kartli-hafiza-oyunu",
+    "storage_bucket": "sayi-kartli-hafiza-oyunu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118050120058:android:e1e74ccecd76c811a0b6c3",
+        "android_client_info": {
+          "package_name": "com.ao.memory_card_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118050120058-3hsll7is56olu0bgqevrfvurghtltdni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR98q2fr3QHriuJGSJKb2QP3kP8EvqdR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118050120058-3hsll7is56olu0bgqevrfvurghtltdni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
